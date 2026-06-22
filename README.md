@@ -5,7 +5,7 @@ This project implements the use of filter(), map(), and includes() methods for i
 
 The books JSON data is included in a separate file where it is assigned to a variable and imported via the spread operator in the main JavaScript file.
 
-As with the first version, none of the links work. In addition, the mobile navigation does not work although the relevant styling has been applied. I have left this up to your imagination as to how you wish to approach this. The functionality has already been implemented in the first version.
+As with the first version, none of the links work. In addition, the mobile navigation does not work although the relevant styling has been applied. I have left this up to your imagination as to how you wish to approach this. The functionality has already been implemented in the <a href="https://github.com/rossfion/HTML-CSS-JS-BookNotes-Project-v1" target="_blank">first version</a>.
 
 Also, no additional information about the book is displayed. For example, clicking on a book cover image will not do anything. I have reserved this functionality for the third project where all of this comes together.
 
