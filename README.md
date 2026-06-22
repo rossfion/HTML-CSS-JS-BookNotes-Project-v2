@@ -17,6 +17,6 @@ In the future, I will be looking at what happens in the event that there is no c
 
 Coding Addict logo is courtesy of Yanis Smilga.
 
-No AIs (such as ChatGPT) were used in the rebuilding of this project. Just generic online search.
+No AIs (such as ChatGPT) were used in the rebuilding of this project. Just generic online search. And books. And researching online documentation.
 
 No third-party libraries (except for Google Fonts) were used in the rebuilding of this project.
